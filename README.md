@@ -1,10 +1,12 @@
 # voyager-keymap
 
-ZSA Voyager Keyboard Keymap for HHKB Users
+HHKB style of arrow keys for Voyager.
 
 ![Default](./assets/default.png)
 ![Layer 1](./assets/layer1.png)
 ![Layer 2](./assets/layer2.png)
+
+If you interested in another custom hhkb keyboard, please see [tokyo60-keymap](https://github.com/channprj/tokyo60-keymap).
 
 ## Reference
 
