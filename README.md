@@ -8,5 +8,6 @@ ZSA Voyager Keyboard Keymap for HHKB Users
 
 ## Reference
 
+- [ZSA Voyager](https://www.zsa.io/voyager/)
 - [QMK - Getting started](https://docs.qmk.fm/#/newbs_getting_started?id=set-up-your-environment)
 - [ZSA Configure](https://configure.zsa.io/voyager/layouts/VGQwX/latest/0)
